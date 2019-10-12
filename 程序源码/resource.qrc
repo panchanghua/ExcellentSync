@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>新建.png</file>
+        <file>同步.png</file>
+        <file>删除.png</file>
+        <file>分析.png</file>
+        <file>computer.png</file>
+        <file>交换.png</file>
+        <file>本地.png</file>
+        <file>网络.png</file>
+        <file>无线.png</file>
+        <file>有线.png</file>
+        <file>显示.png</file>
+        <file>Windows.png</file>
+        <file>pic1/tubiao.png</file>
+    </qresource>
+    <qresource prefix="/new/image">
+        <file>dir.png</file>
+        <file>file.png</file>
+        <file>3.png</file>
+        <file>2.png</file>
+        <file>1.png</file>
+        <file>right_empty.png</file>
+        <file>right.png</file>
+        <file>left_empty.png</file>
+        <file>left.png</file>
+    </qresource>
+</RCC>

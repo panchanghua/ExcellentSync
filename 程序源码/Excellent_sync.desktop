@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/xly/Excellent_sync_2/run.sh
+Name=first_project
+GenericName=first_project
+Icon=/home/xly/Excellent_sync_2/tubiao.png
+Terminal=false
+Categories=Development;
+Name[zh_CN]=Excellent_sync
